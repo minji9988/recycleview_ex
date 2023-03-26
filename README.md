@@ -1,6 +1,6 @@
 # recycleview_ex
 
-<img width="60%" src="https://user-images.githubusercontent.com/104492622/227774675-c334f61e-c679-4b6c-9837-1e1273f2e4c5.gif"/>
+<img width="40%" src="https://user-images.githubusercontent.com/104492622/227774675-c334f61e-c679-4b6c-9837-1e1273f2e4c5.gif"/>
 
 
 * 리사이클러 뷰를 사용해서 리스트를 만들었다.
